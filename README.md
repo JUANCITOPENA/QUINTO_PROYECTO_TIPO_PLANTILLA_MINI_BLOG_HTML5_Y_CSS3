@@ -22,7 +22,7 @@ La página HTML utiliza etiquetas semánticas y un diseño responsivo:
 - El `<aside>` actúa como una barra lateral y contiene anuncios publicitarios y un reproductor de video de ejemplo.
 - El `<footer>` contiene el pie de página del sitio.
 
-### Link Pagina: 
+### Link Pagina: https://juancitopena.github.io/QUINTO_PROYECTO_TIPO_PLANTILLA_MINI_BLOG_HTML5_Y_CSS3/
 
 ## Cómo Usar
 
